@@ -1,0 +1,19 @@
+# Core data science
+pandas>=2.1.0
+numpy>=1.26.0
+scikit-learn>=1.4.0
+imbalanced-learn>=0.12.0   # SMOTE
+
+# Gradient boosting
+xgboost>=2.0.0
+
+# Visualisation
+matplotlib>=3.8.0
+seaborn>=0.13.0
+plotly>=5.18.0
+
+# Frontend
+streamlit>=1.32.0
+
+# Utilities
+joblib>=1.3.0
